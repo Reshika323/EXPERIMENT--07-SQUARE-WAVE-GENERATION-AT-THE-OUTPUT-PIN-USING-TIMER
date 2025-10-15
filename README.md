@@ -1,4 +1,4 @@
-# EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER
+## EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER
 
 ### Aim:
 To generate a PWM wave at the timer pin output and  simuate it on  proteus using an virtual oscilloscope  
@@ -88,24 +88,25 @@ Step10. Double click on the the MCU part to open settings. Next to the Program F
 
  
 Step14. click on debug and simulate using simulation as shown below 
- ![image](https://github.com/vasanthkumarch/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/36288975/b8efbfc2-f0c5-4106-8117-3a6e7ac87f6c)
-
-
  
 
-  
 
 ## STM 32 CUBE PROGRAM :
 
 
+<img width="1708" height="953" alt="Screenshot 2025-10-15 090057" src="https://github.com/user-attachments/assets/6ac703de-1f3f-4fdf-a272-a8364708d29e" />
 
 
 
 ## Output screen shots of proteus  :
  
+ <img width="1913" height="1140" alt="Screenshot 2025-10-15 090257" src="https://github.com/user-attachments/assets/6471913b-2080-4d41-89a3-ff476425ce6b" />
+
+
+ ## DUTY CYCLE DIAGRAM :
  
- ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
- 
+
+<img width="1386" height="885" alt="Screenshot 2025-10-15 090243" src="https://github.com/user-attachments/assets/0a38b648-8b89-4121-b6d6-53a38aa31786" />
 
 ## DUTY CYCLE AND FREQUENCY CALCULATION 
 FOR PULSE AT 500
